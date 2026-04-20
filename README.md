@@ -29,6 +29,26 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SkinDevX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/SkinDevX)
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SkinDevX&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -50,6 +70,8 @@
 <div align="center">
 
 ### 💬 "Build. Learn. Evolve."
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-skindevx.github.io-00F7FF?style=for-the-badge)](https://skindevx.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SkinDevX&color=00f7ff&style=flat-square&label=Profile+Views)
 
