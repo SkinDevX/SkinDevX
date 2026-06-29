@@ -2,9 +2,9 @@
 
 # 👾 SkinDevX
 
-### 🔧 Developer & Engineer | 🇧🇷 Brazil
+### ⚡ Engenheiro · COO · Builder | 🇧🇷 Brazil
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+tech+solutions;ERP+%7C+PWA+%7C+Web+Apps;AI+Agents+%26+Automation;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=560&lines=Engenheiro+Eletricista+%26+Civil;15%2B+anos+em+obras+e+ind%C3%BAstria;COO+%7C+Gest%C3%A3o+de+Opera%C3%A7%C3%B5es;Builder+%7C+ERP+%7C+PWA+%7C+Automa%C3%A7%C3%A3o+com+IA)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,32 +12,42 @@
 
 ## 🚀 About Me
 
-- 🔭 Building **ERP systems**, **web apps** and **PWAs** for real-world use cases
-- 🤖 Daily user of **AI tools** — agents, assistants & code automation
-- ⚡ Focused on practical solutions: from construction management to church ministry
-- 🌱 Always evolving — TypeScript, Python, automation workflows
+- ⚡ **Engenheiro Eletricista & Civil** com pós em Segurança do Trabalho — 15+ anos em obras industriais e portuárias
+- 🏗️ **COO** — liderança de operações, projetos multidisciplinares, controle de custos e gestão de contratos
+- 🔧 **Builder** — constrói as próprias ferramentas digitais porque conhece o problema por dentro: ERP, PWA, automações
+- 🤖 Uso diário de **IA aplicada à engenharia** — agentes, automação de processos, análise de dados
 - 🌍 Based in **Brazil**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Dev
+### 💻 Linguagens & Dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🤖 AI & Automation
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20%7C%20LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agents](https://img.shields.io/badge/AI%20Agents-00F7FF?style=for-the-badge&logo=probot&logoColor=black)
-![Automation](https://img.shields.io/badge/Automation-FF6B35?style=for-the-badge&logo=zapier&logoColor=white)
+### 🗄️ Banco de Dados & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ⚙️ Tools & Platforms
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![ERP](https://img.shields.io/badge/ERP%20Dev-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+### 🔗 Integrações & APIs
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Webhooks](https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 AI & Automação
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI](https://img.shields.io/badge/GPT_%7C_Gemini-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agents](https://img.shields.io/badge/AI_Agents_%7C_RAG-00F7FF?style=for-the-badge&logo=probot&logoColor=black)
+
+### ⚙️ Plataformas & Ferramentas
+![Deploy](https://img.shields.io/badge/Deploy_%26_Hosting-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,14 +55,14 @@
 
 ---
 
-## 📦 Featured Projects
+## 📦 Ferramentas que construí
 
-### 🏗️ ERP Biasi Obras
-> Sistema ERP completo para gestão de obras e construção civil
+### 🏗️ ERP Obras Suite
+> Sistema ERP completo para gestão de obras e construção civil — controle de processos, financeiro e relatórios integrados
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-[![Live](https://img.shields.io/badge/🌐_Live-erp--biasi--obras.vercel.app-00F7FF?style=flat)](https://erp-biasi-obras.vercel.app)
+![ERP](https://img.shields.io/badge/ERP-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Web App](https://img.shields.io/badge/Web_App-00F7FF?style=flat)
 
 ---
 
@@ -61,26 +71,24 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-[![Live](https://img.shields.io/badge/🌐_Live-praise--hub.vercel.app-00F7FF?style=flat)](https://praise-hub-six.vercel.app)
+![Web App](https://img.shields.io/badge/Web_App-00F7FF?style=flat)
 
 ---
 
 ### 📋 Orçamento
-> Aplicação para criação e gestão de orçamentos
+> Aplicação para criação e gestão de orçamentos profissionais, com geração de documentos e controle de propostas
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-[![Live](https://img.shields.io/badge/🌐_Live-orcamento.vercel.app-00F7FF?style=flat)](https://orcamento-rho.vercel.app)
+![Web App](https://img.shields.io/badge/Web_App-00F7FF?style=flat)
 
 ---
 
 ### 🐍 Python Automation Scripts
-> Scripts para automação, análise de dados e integração com ERPs
+> Scripts para automação, análise de dados e integração com ERPs — workflows com IA, CSV e SQL
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Workflows-412991?style=flat&logo=openai&logoColor=white)
-[![Repo](https://img.shields.io/badge/📁_Repo-public-181717?style=flat&logo=github)](https://github.com/SkinDevX/python-automation-scripts)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-412991?style=flat&logo=openai&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
