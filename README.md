@@ -53,7 +53,6 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### ⚙️ Plataformas & Ferramentas
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
@@ -69,7 +68,7 @@
 
 | | Projeto | O que faz | Stack |
 |---|---|---|---|
-| 🟢🔒 | **Hub Corporativo** | ERP corporativo de uso diário — comercial, cadastro de membros, integração com ERP de contratos/medições e SST com HHT | TypeScript · Neon · Vercel |
+| 🟢🔒 | **Hub Corporativo** | ERP corporativo de uso diário — comercial, cadastro de membros, integração com ERP de contratos/medições e SST com HHT | TypeScript · Neon |
 | 🟢🔒 | **Controle de Documentos & Propostas** | Numeração e controle de documentos e propostas — Kanban, funil de vendas, alertas semanais, sync com planilha e **conector MCP** para a IA reservar números | TypeScript · Neon · Cloudflare Pages · MCP · SSO Microsoft |
 | 🔒 | **ERP Obras Suite** | Gestão de obras — processos, financeiro e relatórios integrados | JavaScript |
 | 🟢🔒 | **AI Second Brain** | Memória persistente compartilhada entre Claude, Codex e ChatGPT (vault Obsidian + skills) | Obsidian · Claude Code · Codex |
